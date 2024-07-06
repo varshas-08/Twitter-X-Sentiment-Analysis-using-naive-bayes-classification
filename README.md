@@ -1,5 +1,6 @@
-# Twitter-X-Sentiment-Analysis-using-naive-bayes-classification
-The model classifies various tweets on platform twitter(or X) into positive or negative.
+# Twitter-X-Sentiment-Analysis-using-naive-bayes-classification   
+The model classifies various tweets on platform twitter(or X) into positive or negative.   
+Try it here : https://huggingface.co/spaces/varshaa08/Electronics_related_tweet_classifier   
 
 Algorithm : **Naive Bayes**
 
